@@ -3,5 +3,45 @@
         "name": "Slope Rider",
         "slug": "slope-rider",
         "image": "/cache/data/image/game/slope-rider/sloperider-m186x186.webp"
+    },
+    {
+        "name": "Snowtrail Legends",
+        "slug": "snowtrail-legends",
+        "image": "/cache/data/image/game/snowtrail-legends/snowtrail-legends-m186x186.webp"
+    },
+    {
+        "name": "Ski Frenzy",
+        "slug": "ski-frenzy",
+        "image": "/cache/data/image/game/ski-frenzy/ski-frenzy-m186x186.webp"
+    },
+    {
+        "name": "Icy Dash",
+        "slug": "icy-dash",
+        "image": "/cache/data/image/game/icy-dash/icy-dash-m186x186.webp"
+    },
+    {
+        "name": "Snow Road",
+        "slug": "snow-road",
+        "image": "/cache/data/image/game/snow-road/snow-road-m186x186.webp"
+    },
+    {
+        "name": "Slope Snowball",
+        "slug": "slope-snowball",
+        "image": "/cache/data/image/game/slope-snowball/slope-snowball-m186x186.webp"
+    },
+    {
+        "name": "Snow Rush 3D",
+        "slug": "snow-rush-3d",
+        "image": "/cache/data/image/game/snow-rush-3d/snow-rush-3d-m186x186.webp"
+    },
+    {
+        "name": "Snow Rider 2",
+        "slug": "snow-rider-2",
+        "image": "/cache/data/image/game/snow-rider-2/snow-rider-2-m186x186.webp"
+    },
+    {
+        "name": "Santa\u2019s Endless Rush 3D",
+        "slug": "santa-s-endless-rush-3d",
+        "image": "/cache/data/image/game/santa-s-endless-rush-3d/santa-s-endless-rush-3d1-m186x186.webp"
     }
 ]
